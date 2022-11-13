@@ -1,1 +1,26 @@
+body {
+    display: flex;
+}
 
+main {
+    margin: 15px;
+    padding: 15px;
+}
+
+iframe {
+    box-shadow: 5px 5px rgba(0,0,0,0.2)
+}
+
+body > div {
+    border: 2px solid #3dfc;
+    padding: 15px;
+}
+img {
+    max-width: 150px;
+}
+
+h2 {
+    padding: 5px;
+    background-color: burlywood;
+    color: white
+}
